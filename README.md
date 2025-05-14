@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priya-gituser
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning MERN.
 
 
 <!---
